@@ -1,3 +1,12 @@
+1. Install Chrome browser
+1. Install Node.js
+2. Clone or unzip Project into your Work folder
+3. Open Terminal, go to Project directory and run commands:
+
+$ npm install
+$ npm test
+
+
 // 1. Navigate to amazon.com
 // 2. Search for "ipad air 2 case"
 // 3. Refine search (left hand side of site) to only show Plastic cases (Case Material)
